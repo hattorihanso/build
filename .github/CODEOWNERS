@@ -20,6 +20,7 @@ config/boards/aml-a311d-cc.conf		@Tonymac32
 config/boards/aml-s905d3-cc.wip		@Tonymac32
 config/boards/aml-s9xx-box.tvb		@SteeManMI
 config/boards/armsom-sige1.csc		@amazingfate
+config/boards/armsom-sige3.csc		@amazingfate
 config/boards/avaota-a1.conf		@chainsx
 config/boards/ayn-odin2.eos		@FantasyGmm
 config/boards/bananapi.conf		@DylanHP @janprunk
@@ -72,7 +73,7 @@ config/boards/nanopct6.conf		@SuperKali @Tonymac32
 config/boards/nanopi-r4s.conf		@Manouchehri
 config/boards/nanopi-r5s.csc		@utlark
 config/boards/nanopi-r6c.csc		@ColorfulRhino
-config/boards/nanopi-r6s.csc		@efectn
+config/boards/nanopi-r6s.conf		@efectn
 config/boards/nanopiair.csc		@1ubuntuuser
 config/boards/nanopiduo.csc		@sgjava
 config/boards/nanopim4v2.conf		@igorpecovnik
@@ -122,7 +123,7 @@ config/boards/rock-5c.conf		@amazingfate
 config/boards/rock-s0.conf		@brentr
 config/boards/rock64.csc		@clee
 config/boards/rockpi-4a.csc		@clee
-config/boards/rockpi-e.conf		@krachlatte
+config/boards/rockpi-e.conf		@paolosabatino
 config/boards/rockpi-s.conf		@brentr
 config/boards/rockpro64.csc		@joekhoobyar
 config/boards/rpi4b.conf		@PanderMusubi @teknoid
